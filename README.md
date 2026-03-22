@@ -1,2 +1,1 @@
-# Ejercicios-de-POO
-Ejercicios faltantes de POO
+# Hola, mi nombre es Mónica García. Este es el repositorio acerca de los trabajos realizados en clase de POO abarcando diversos temas; entre ellos: herencia, polimorfismo, abstracciones y excepciones.
